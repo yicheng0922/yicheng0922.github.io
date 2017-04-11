@@ -2,7 +2,7 @@
 
 ## About Me
 
-<img src="image/headshot.jpg" width=500>
+<img src="image/headshot.jpg" width=500></img>
 
 I'm a graduate student at George Washington University majoring computer science. My expected graduation date is May 2017.
 
