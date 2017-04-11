@@ -39,7 +39,9 @@ Since May 2015, I have been working as a research assistant and conducting resea
 * **Programing language**: C++, MATLAB, Java
 
 * **Language**: English – Fluent, Chinese – Native, Japanese - Basic
+
 ## Resume
 * An electronic copy of my resume can be retrieved [here](/document/resume.pdf)
+
 ## Contact
 Email: yicheng0922@gwmail.gwu.edu
