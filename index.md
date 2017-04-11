@@ -1,7 +1,7 @@
 # Bjoern Cheng Yi's Home Page
 
 ## About Me
-![Bjoern's Photo](/image/headshot)
+![Bjoern's Photo](/image/headshot.jpg)
 
 I'm a graduate student at George Washington University majoring computer science. My expected graduation date is May 2017.
 
