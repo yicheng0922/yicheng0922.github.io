@@ -26,7 +26,8 @@ Since May 2015, I have been working as a research assistant and conducting resea
 * **Research Assistant**, The Positronics Lab, George Washington University, Nov. – Dec. 2014
 
 	* Investigated the properties of two augmented reality (AR) tag tracking libraries on ROS toward door pose tracking with robots
-## Skill
+
+## Skills
 * **Math**: Linear Algebra, Analytic Geometry, Number Theory, Mathematical Proof
 
 * **Robotics**: Feedback Control, Inverse and Forward Kinematics, Trajectory Formation
