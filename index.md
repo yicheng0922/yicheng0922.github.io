@@ -3,9 +3,10 @@
 ## About Me
 
 <img src="image/headshot.jpg" width=500>
+
 I'm a graduate student at George Washington University majoring computer science. My expected graduation date is May 2017.
 
-I earned my Bachelor of Science degree in computer science in 2016. a
+I earned my Bachelor of Science degree in computer science in 2016.
 
 Since May 2015, I have been working as a research assistant and conducting researches with Professor Evan Drumwright in the Positronics Lab at GWU. Our main goal for the research is to find an accurate way to simulate the dynamics of a multi-rigid-body system.
 
