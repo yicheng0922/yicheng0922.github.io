@@ -11,7 +11,7 @@ Since May 2015, I have been working as a research assistant and conducting resea
 
 ## Projects
 ### Repository I contribute to
-* [**Moby**](https://github.com/PositronicsLab/Moby/wiki): A 3-dimensional multi-rigid-body dynamic simulation library written in C++
+* **Moby**: A 3-dimensional multi-rigid-body dynamic simulation library written in C++ [[GitHub Repository](https://github.com/PositronicsLab/Moby/)]
 
 ## Publications
 * **Yi, B.** Drumwright, E. (2016), Determining Contact Data for Rigid Body Dynamics with Convex Polyhedral Geometries. 2016 IEEE International Conference on Simulation, Modeling, and Programming for Autonomous Robots, San Francisco, CA. December 13-16, 2016 (peer reviewed)[[pdf](http://positronicslab.github.io/assets/pdfs/CD16.pdf)]
