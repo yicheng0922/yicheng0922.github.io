@@ -9,6 +9,15 @@ I earned my Bachelor of Science degree in computer science in 2016.
 
 Since May 2015, I have been working as a research assistant and conducting researches with Professor Evan Drumwright in the Positronics Lab at GWU. Our main goal for the research is to find an accurate way to simulate the dynamics of a multi-rigid-body system.
 
+## Relevant Academic Achievement
+
+* **Awarded *Best Senior Design Project* ** – a Fast Algorithm for Finding the Minimal Translational Distance between Two Interpenetrated Polyhedra
+	* The algorithm was further developed and used in Moby, an open source physics simulator developed by The Positronics Lab.
+* Graduated with ***magna cum laude*** for undergraduate
+* Dean's List: Spring 2013, Fall 2013, Spring 2014, Fall 2015, Spring 2016
+* Dean's Commendation List: Fall 2012, Fall 2014, Spring 2015
+
+
 ## Projects
 ### Repository I contribute to
 * **Moby**: A 3-dimensional multi-rigid-body dynamic simulation library written in C++ [[GitHub Repository](https://github.com/PositronicsLab/Moby/)]
