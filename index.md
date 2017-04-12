@@ -13,7 +13,7 @@ Since May 2015, I have been working as a research assistant and conducting resea
 
 * Awarded ***Best Senior Design Project*** – a Fast Algorithm for Finding the Minimal Translational Distance between Two Interpenetrated Polyhedra
 	* The algorithm was further developed and used in Moby, an open source physics simulator developed by The Positronics Lab.
-* Graduated with ***magna cum laude*** for undergraduate
+* Graduated with *magna cum laude* for undergraduate
 * **Dean's List**: Spring 2013, Fall 2013, Spring 2014, Fall 2015, Spring 2016
 * **Dean's Commendation List**: Fall 2012, Fall 2014, Spring 2015
 
