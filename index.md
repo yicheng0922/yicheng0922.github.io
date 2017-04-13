@@ -11,8 +11,7 @@ Since May 2015, I have been working as a research assistant and conducting resea
 
 ## Some Academic Achievements
 
-* Awarded ***Best Senior Design Project*** for "A Fast Algorithm for Finding the Minimal Translational Distance between Two Interpenetrated Polyhedra"
-	* The algorithm was further developed and used in [[Moby]](https://github.com/PositronicsLab/Moby/)], an open source rigid body dynamics simulator developed by The Positronics Lab.
+* Awarded ***Best Senior Design Project*** for "A Fast Algorithm for Finding the Minimal Translational Distance between Two Interpenetrated Polyhedra". *The algorithm was further developed and used in [Moby](https://github.com/PositronicsLab/Moby/), an open source rigid body dynamics simulator developed by The Positronics Lab.*
 * Graduated *magna cum laude* (in CS at GWU, Spring 2016)
 * **Dean's List** honors: Spring 2013, Fall 2013, Spring 2014, Fall 2015, Spring 2016
 * **Dean's Commendation List** honors: Fall 2012, Fall 2014, Spring 2015
