@@ -12,7 +12,7 @@ Since May 2015, I have been working as a research assistant and conducting resea
 ## Some Academic Achievements
 
 * Awarded ***Best Senior Design Project*** for "A Fast Algorithm for Finding the Minimal Translational Distance between Two Interpenetrated Polyhedra". *The algorithm was further developed and used in [Moby](https://github.com/PositronicsLab/Moby/), an open source rigid body dynamics simulator developed by The Positronics Lab.*
-* Graduated *magna cum laude* (in CS at GWU, Spring 2016)
+* Graduated ***magna cum laude*** (in CS at GWU, Spring 2016)
 * **Dean's List** honors: Spring 2013, Fall 2013, Spring 2014, Fall 2015, Spring 2016
 * **Dean's Commendation List** honors: Fall 2012, Fall 2014, Spring 2015
 
@@ -24,11 +24,11 @@ Since May 2015, I have been working as a research assistant and conducting resea
 * **Yi, B.** Drumwright, E. (2016), Determining Contact Data for Rigid Body Dynamics with Convex Polyhedral Geometries. 2016 IEEE International Conference on Simulation, Modeling, and Programming for Autonomous Robots, San Francisco, CA. December 13-16, 2016. [[pdf](http://positronicslab.github.io/assets/pdfs/CD16.pdf)]
 
 ## Work experience
-* **Research Assistant**, [[The Positronics Lab]](https://positronicslab.github.io), George Washington University, May 2015 – Present
+* **Research Assistant**, [The Positronics Lab](https://positronicslab.github.io), George Washington University, May 2015 – Present
 
 	* Researched algorithms to combat interpenetration errors in multi-rigid- body simulations
 
-	* Implemented the [[V-Clip Algorithm]](https://pdfs.semanticscholar.org/8bc2/9a05f06e557fb711df7769e2d1e6535a1516.pdf) for contact determination in C++
+	* Implemented the [V-Clip Algorithm](https://pdfs.semanticscholar.org/8bc2/9a05f06e557fb711df7769e2d1e6535a1516.pdf) for contact determination in C++
 
 * **Research Assistant**, The Positronics Lab, George Washington University, Nov. – Dec. 2014
 
