@@ -7,7 +7,7 @@ I'm a graduate student at George Washington University working toward my M.S. in
 
 I earned my Bachelor of Science degree in CS in 2016.
 
-Since May 2015, I have been working as a research assistant and conducting researches with Professor [[Evan Drumwright]](https://edrumwri.github.io) in the [[Positronics Lab]](https://positronicslab.github.io) at GWU. Our main goal for the research is to find an accurate way to simulate the dynamics of a multi-rigid-body system.
+Since May 2015, I have been working as a research assistant and conducting researches with Professor [[Evan Drumwright](https://edrumwri.github.io)] in the [[Positronics Lab](https://positronicslab.github.io)] at GWU. Our main goal for the research is to find an accurate way to simulate the dynamics of a multi-rigid-body system.
 
 ## Some Academic Achievements
 
