@@ -19,7 +19,7 @@ Since May 2015, I have been working as a research assistant and conducting resea
 ## Projects
 ### Repositories I contribute to:
 * **Moby**: A 3-dimensional multi-rigid-body dynamic simulation library written in C++ [[GitHub Repository](https://github.com/PositronicsLab/Moby/)]
-	* Contributed Code: [[V-Clip Algorithm](https://github.com/PositronicsLab/Moby/blob/6db88b3f4f72628d0f6dd513321c209c5c005fbf/src/Polyhedron.cpp#L1237-L1731)] [[Update Rule for V-Clip](https://github.com/PositronicsLab/Moby/blob/6db88b3f4f72628d0f6dd513321c209c5c005fbf/src/Polyhedron.cpp#L2471-L3495)] [[Feature Distance Detection](https://github.com/PositronicsLab/Moby/blob/6db88b3f4f72628d0f6dd513321c209c5c005fbf/src/Polyhedron.cpp#L1864-L2467)]
+	* Contributed Code:  [[Update Rule for V-Clip](https://github.com/PositronicsLab/Moby/blob/6db88b3f4f72628d0f6dd513321c209c5c005fbf/src/Polyhedron.cpp#L2471-L3495)] [[V-Clip Huristics](https://github.com/PositronicsLab/Moby/blob/6db88b3f4f72628d0f6dd513321c209c5c005fbf/src/Polyhedron.cpp#L1237-L1731)][[Feature Distance Detection](https://github.com/PositronicsLab/Moby/blob/6db88b3f4f72628d0f6dd513321c209c5c005fbf/src/Polyhedron.cpp#L1864-L2467)]
 
 ## Peer Reviewed Publications
 * **Yi, B.** Drumwright, E. (2016), Determining Contact Data for Rigid Body Dynamics with Convex Polyhedral Geometries. *Proc. of the 2016 IEEE International Conference on Simulation, Modeling, and Programming for Autonomous Robots*, San Francisco, CA. December 13-16, 2016. [[pdf](http://positronicslab.github.io/assets/pdfs/CD16.pdf)]
