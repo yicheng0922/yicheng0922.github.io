@@ -1,4 +1,4 @@
-# Bjoern Cheng Yi's Home Page
+ # Bjoern Cheng Yi's Home Page
 
 ## About Me
 ![Bjoern's Photo](/image/headshot.jpg)
@@ -19,7 +19,7 @@ Since May 2015, I have been working as a research assistant and conducting resea
 ## Projects
 ### Repositories I contribute to:
 * **Moby**: A 3-dimensional multi-rigid-body dynamic simulation library written in C++ [[GitHub Repository](https://github.com/PositronicsLab/Moby/)]
-	* Contributed Code:  [[Update Rule for V-Clip](https://github.com/PositronicsLab/Moby/blob/6db88b3f4f72628d0f6dd513321c209c5c005fbf/src/Polyhedron.cpp#L2471-L3495)] [[V-Clip Heuristic](https://github.com/PositronicsLab/Moby/blob/6db88b3f4f72628d0f6dd513321c209c5c005fbf/src/Polyhedron.cpp#L1398-L1731)][[Feature Distance Detection](https://github.com/PositronicsLab/Moby/blob/6db88b3f4f72628d0f6dd513321c209c5c005fbf/src/Polyhedron.cpp#L1864-L2467)]
+	* Contributed Code:   [[Update Rule for V-Clip](https://github.com/PositronicsLab/Moby/blob/03dbf88f8d0f5ac551c14ef9179d0b09f339cc9e/src/Polyhedron.cpp#L2821-L3590)] [[V-Clip Heuristic](https://github.com/PositronicsLab/Moby/blob/03dbf88f8d0f5ac551c14ef9179d0b09f339cc9e/src/Polyhedron.cpp#L1695-L1857)][[Feature Distance Detection](https://github.com/PositronicsLab/Moby/blob/03dbf88f8d0f5ac551c14ef9179d0b09f339cc9e/src/Polyhedron.cpp#L1993-L2426)] [[Functions used by V-Clip (Clip Edge, Voronoi Plane, Derivative Check and Local Minimum Handling)](https://github.com/PositronicsLab/Moby/blob/03dbf88f8d0f5ac551c14ef9179d0b09f339cc9e/src/Polyhedron.cpp#L2428-2816)]
 
 ## Peer Reviewed Publications
 * **Yi, B.** Drumwright, E. (2016), Determining Contact Data for Rigid Body Dynamics with Convex Polyhedral Geometries. *Proc. of the 2016 IEEE International Conference on Simulation, Modeling, and Programming for Autonomous Robots*, San Francisco, CA. December 13-16, 2016. [[pdf](http://positronicslab.github.io/assets/pdfs/CD16.pdf)]
